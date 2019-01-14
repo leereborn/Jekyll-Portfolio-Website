@@ -2,21 +2,35 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Rui Li
+tagline:             'M.Sc. student in Computer Science'
+description:         Ultimately there's only definitions. -- Dr. Yongyi Mao
 baseurl:             ''
 paginate:            5
 
-# About/contact
+# About
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Rui Li
+  portrait:          '/assets/images/img_about.jpg'
+  resume:            '/assets/resume.pdf'
 
-# Custom vars
-version:             1.0.0
+# Index
+home_picture: '/assets/images/img_home.jpg'
+
+# Projects
+projects:
+  - name: Android Chat App
+    url: https://github.com/leereborn/Android-chat-room
+  
+  - name: Facial Age and Gender Detection
+    url: https://github.com/leereborn/Age-Gender-Classification-CNN
+
+  - name: Connection between Adversarial Training and Regularization
+    url: https://github.com/leereborn/adv-vs-reg
+
+# Build settings
+plugins:
+  - jekyll-paginate

@@ -1,0 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
+{% for node in site.projects %}
+    <div><a href="{{ node.url }}">{{ node.name }}</a></div>
+{% endfor %}

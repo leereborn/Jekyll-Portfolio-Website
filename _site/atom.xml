@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rui Li</title>
- <link href="http://localhost:4000https://github.com/leereborn/rui-li/tree/master/atom.xml" rel="self"/>
- <link href="http://localhost:4000https://github.com/leereborn/rui-li/tree/master/"/>
- <updated>2019-01-14T01:11:00-05:00</updated>
+ <link href="http://localhost:4000https://leereborn.github.io/rui-li/atom.xml" rel="self"/>
+ <link href="http://localhost:4000https://leereborn.github.io/rui-li/"/>
+ <updated>2019-01-14T01:40:22-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rui Li</name>
@@ -16,7 +16,7 @@
    <title>What's Jekyll?</title>
    <link href="http://localhost:4000/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>http://localhost:4000https://github.com/leereborn/rui-li/tree/master/2013/12/31/whats-jekyll</id>
+   <id>http://localhost:4000https://leereborn.github.io/rui-li/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;

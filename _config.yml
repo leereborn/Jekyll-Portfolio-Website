@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Rui Li
 tagline:             'M.Sc. student in Computer Science'
 description:         Ultimately there's only definitions. -- Dr. Yongyi Mao
-baseurl:             ''
+baseurl:             'https://github.com/leereborn/rui-li/tree/master'
 paginate:            5
 
 # About
@@ -18,7 +18,7 @@ author:
   resume:            '/assets/resume.pdf'
 
 # Index
-home_picture: '/assets/images/img_home.jpg'
+home_picture: 'assets/images/img_home.jpg'
 
 # Projects
 projects:
